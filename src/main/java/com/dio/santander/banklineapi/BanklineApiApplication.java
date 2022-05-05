@@ -8,7 +8,7 @@ public class BanklineApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BanklineApiApplication.class, args);
-		//Iremos começar a codificar o nosso projeto
+		//https://dio-bankline-api.herokuapp.com/swagger-ui/index.html
 	}
 
 }
